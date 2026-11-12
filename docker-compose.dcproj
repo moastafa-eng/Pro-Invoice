@@ -7,7 +7,7 @@
     <ProjectGuid>bc0e6265-0fe0-4ce4-8b72-839709492f5d</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
-    <DockerServiceName>youtubeapicleanarchitecture.api</DockerServiceName>
+    <DockerServiceName>proinvoice.api</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">

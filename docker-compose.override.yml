@@ -1,5 +1,5 @@
 services:
-  youtubeapicleanarchitecture.api:
+  proinvoice.api:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_HTTP_PORTS=8080
